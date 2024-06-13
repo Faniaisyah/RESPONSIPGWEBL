@@ -24,6 +24,7 @@ Komponen yang digunakan:
 <ul>
   <li><a href="https://geoportal.slemankab.go.id/">Geoportal Kabupaten Sleman</a></li>
   <li><a href="https://www.google.com/maps">Data Sebaran Fasilitas Pertahanan Dan Kemanan Melalu Google Maps</a></li>
+  <li><a href="[https://geoportal.slemankab.go.id/](http://localhost:8080/geoserver/web/?4)">GeoServer</a></li>
 </li>
 </ul>
 
