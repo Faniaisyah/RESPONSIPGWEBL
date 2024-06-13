@@ -2,21 +2,23 @@
 
 "SafeZoneSlemanGIS" adalah sistem informasi geografis yang digunakan untuk menganalisis dan memvisualisasikan distribusi titik-titik strategis dalam pertahanan dan keamanan wilayah Sleman. Dengan menggunakan teknologi GIS, sistem ini membantu memahami penempatan pos keamanan, pangkalan militer, dan elemen kunci lainnya secara digital. Ini memungkinkan pengguna untuk mendapatkan gambaran yang lebih baik tentang struktur pertahanan dan keamanan di Sleman, memudahkan pengambilan keputusan strategis dan perencanaan efektif.
 
-Komponen Pembangun yang digunakan:
-1. Geoserver
-2. Visual Studio Code
-3. W3schools
-4. Fontawesome
-5. QGIS
-6. DBeaver
-7. Bootsrap
-8. Laravel
-9. PostGIS
-10. PostgreSQL
-11. Data Tables
-12. GeoJSIN
-13. Well-Known Text (WKT)
-14. Leaflet
+ <h3>Komponen Pembangun yang digunakan:</h3>
+    <ol>
+        <li><a href="https://geoserver.org/">Geoserver</a></li>
+        <li><a href="https://code.visualstudio.com/">Visual Studio Code</a></li>
+        <li><a href="https://www.w3schools.com/">W3schools</a></li>
+        <li><a href="https://fontawesome.com/">Fontawesome</a></li>
+        <li><a href="https://qgis.org/">QGIS</a></li>
+        <li><a href="https://dbeaver.io/">DBeaver</a></li>
+        <li><a href="https://getbootstrap.com/">Bootstrap</a></li>
+        <li><a href="https://laravel.com/">Laravel</a></li>
+        <li><a href="https://postgis.net/">PostGIS</a></li>
+        <li><a href="https://www.postgresql.org/">PostgreSQL</a></li>
+        <li><a href="https://datatables.net/">Data Tables</a></li>
+        <li><a href="https://geojson.org/">GeoJSON</a></li>
+        <li><a href="https://en.wikipedia.org/wiki/Well-known_text_representation_of_geometry">Well-Known Text (WKT)</a></li>
+        <li><a href="https://leafletjs.com/">Leaflet</a></li>
+    </ol>
 
 
 <h2>Sumber Data:</h2>
