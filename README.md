@@ -2,7 +2,7 @@
 
 "SafeZoneSlemanGIS" adalah sistem informasi geografis yang digunakan untuk menganalisis dan memvisualisasikan distribusi titik-titik strategis dalam pertahanan dan keamanan wilayah Sleman. Dengan menggunakan teknologi GIS, sistem ini membantu memahami penempatan pos keamanan, pangkalan militer, dan elemen kunci lainnya secara digital. Ini memungkinkan pengguna untuk mendapatkan gambaran yang lebih baik tentang struktur pertahanan dan keamanan di Sleman, memudahkan pengambilan keputusan strategis dan perencanaan efektif.
 
-Komponen yang digunakan:
+Komponen Pembangun yang digunakan:
 1. Geoserver
 2. Visual Studio Code
 3. W3schools
