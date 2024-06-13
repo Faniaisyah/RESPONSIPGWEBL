@@ -38,21 +38,17 @@ Komponen yang digunakan:
 
 <h2>Tangkapan Layar Komponen Penting</h2>
 <ol>
-  <li>Beranda</li> <img src = "Landingpage.png" width = "500">
-  <li>Sebaran Fasilitas</li> <img src = "page2.png" width = "500">
-  <li>Jenis Fasilitas</li> <img src = "3.png" width = "500">
-  <li>Jenis Fasilitas</li> <img src = "4.png" width = "500">
-  <li>Jenis Fasilitas</li> <img src = "5.png" width = "500">
-   <li>Jenis Fasilitas</li> <img src = "6.png" width = "500">
- <li>Jenis Fasilitas</li> <img src = "7.png" width = "500">
-  <li>Jenis Fasilitas</li> <img src = "8.png" width = "500">
-   <li>Jenis Fasilitas</li> <img src = "9.png" width = "500">
-  <li>Jenis Fasilitas</li> <img src = "10.png" width = "500">
-  <li>Jenis Fasilitas</li> <img src = "11.png" width = "500">
-  <li>Grafis & Tabel</li> <img src = "13.png" width = "500">
-<li>Grafis & Tabel</li> <img src = "14.png" width = "500">
-<li>Grafis & Tabel</li> <img src = "15.png" width = "500">
- <li>Grafis & Tabel</li> <img src = "16.png" width = "500">
+  <li>index-public</li> <img src = "Screenshot 2024-06-13 201959.png" width = "500">
+  <li>login</li> <img src = "Screenshot 2024-06-13 202020" width = "500">
+  <li>index</li> <img src = "Screenshot 2024-06-13 202051" width = "500">
+  <li>dashboard</li> <img src = "Screenshot 2024-06-13 202040" width = "500">
+  <li>tabel point</li> <img src = "Screenshot 2024-06-13 202207" width = "500">
+   <li>tabel polyline</li> <img src = "Screenshot 2024-06-13 202216" width = "500">
+ <li>tabel polygon</li> <img src = "Screenshot 2024-06-13 202225" width = "500">
+   <li>output point</li> <img src = "Screenshot 2024-06-13 202120" width = "500">
+  <li>output poilyline</li> <img src = "Screenshot 2024-06-13 202141" width = "500">
+  <li>output polygon</li> <img src = "11.png" width = "500">
+  <li>info</li> <img src = "Screenshot 2024-06-13 202158" width = "500">
   <ol>
   
   
