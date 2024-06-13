@@ -29,10 +29,11 @@ Komponen yang digunakan:
 
 <h2>Tangkapan Layar Sumber Data</h2>
 <ol>
-  <li>Geoserver</li> <img src = "geoserver/Screenshot 2023-11-25 114601.png" width = "500">
-  <li>WSchools</li> <img src = "geoserver/Screenshot 2023-11-25 114729.png" width = "500">
-   <li>FontAwesome</li> <img src = "geoserver/Screenshot 2023-11-25 115018.png" width = "500">
+  <li>Geoserver</li> <img src = "Screenshot 2024-06-13 201220.png" width = "500">
+  <li>Google Maps</li> <img src = "Screenshot 2024-06-13 201338.png" width = "500">
+   <li>Geoprortal Kabupaten Sleman</li> <img src = "Screenshot 2024-06-13 201353.png" width = "500">
 </ol>
+
 
 
 <h2>Tangkapan Layar Komponen Penting</h2>
