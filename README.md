@@ -52,6 +52,10 @@
   <li>output poilyline</li> <img src = "Screenshot 2024-06-13 202141.png" width = "500">
   <li>output polygon</li> <img src = "Screenshot 2024-06-13 202158.png" width = "500">
   <li>info</li> <img src = "Screenshot 2024-06-13 202236.png" width = "500">
+  <li>Edit point</li> <img src = "Screenshot 2024-06-14 211434.png" width = "500">
+  <li>edit polyline</li> <img src = "Screenshot 2024-06-14 211520.png" width = "500">
+  <li>edit polygon</li> <img src = "Screenshot 2024-06-14 211504.png" width = "500">
+    
   <ol>
   
   
