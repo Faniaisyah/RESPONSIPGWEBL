@@ -43,7 +43,7 @@
 <ol>
   <li>index-public</li> <img src = "Screenshot 2024-06-13 201959.png" width = "500">
   <li>login</li> <img src = "Screenshot 2024-06-13 202020.png" width = "500">
-  <li>index</li> <img src = "Screenshot 2024-06-13 202051.png" width = "500">
+  <li>index</li> <img src = "Screenshot 2024-06-14 211625.png" width = "500">
   <li>dashboard</li> <img src = "Screenshot 2024-06-13 202040.png" width = "500">
   <li>tabel point</li> <img src = "Screenshot 2024-06-13 202207.png" width = "500">
    <li>tabel polyline</li> <img src = "Screenshot 2024-06-13 202216.png" width = "500">
